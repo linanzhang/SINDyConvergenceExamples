@@ -1,7 +1,7 @@
 # SINDyConvergenceExamples
 
 Functions:
-  - sindyAlgorithm.m (The SINDy algorithm [1] for Ax = b)
+  - sindyAlgorithm.m (The SINDy algorithm [2] for Ax = b)
   - Dictionary.m (the Monomial Dictionary Matrix)
 
 Authors: Linan Zhang and Hayden Schaeffer
