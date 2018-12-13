@@ -32,7 +32,7 @@ function [X,Sk_sorted,F] = sindyAlgorithm(A,b,lambda)
 % ===================================================================
 
 % Set iteration parameters.
-MaxIt = size(A,2); % maximum number of iterations needed
+n = size(A,2); MaxIt = n; % maximum number of iterations needed
 err = 1; % flag for error
 k = 2; % iteration index
 
