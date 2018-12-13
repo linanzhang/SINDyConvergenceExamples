@@ -25,7 +25,7 @@ function [X,Sk_sorted,F] = sindyAlgorithm(A,b,lambda)
 %       the National Academy of Sciences, 113(15):3932-3937, 2016.
 %   [2] Linan Zhang and Hayden Schaeffer. 
 %       On the Convergence of the SINDy Algorithm.
-%       https://www.math.cmu.edu/CNA/Publications/publications2018/papers/18-CNA-013.pdf
+%       https://arxiv.org/abs/1805.06445
 %
 % Authors: Linan Zhang and Hayden Schaeffer
 % Date: May 16, 2018
