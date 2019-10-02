@@ -14,7 +14,7 @@ Reference:
  
 On the Convergence of the SINDy Algorithm.
       
-Multiscale Modeling & Simulation, Volume 17, Issue 3.
+Multiscale Modeling & Simulation, 17(3), 948–972, 2019.
 
 [2] Steven L. Brunton, Joshua L. Proctor, and J. Nathan Kutz. 
 
