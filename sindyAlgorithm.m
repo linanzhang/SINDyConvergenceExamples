@@ -18,14 +18,14 @@ function [X,Sk_sorted,F] = sindyAlgorithm(A,b,lambda)
 %   Sk_sorted = the ordered support set of each x^k
 %   F = the value of the objective function at each step
 %
-% Reference:
+% References:
 %   [1] Steven L. Brunton, Joshua L. Proctor, and J. Nathan Kutz. 
 %       Discovering governing equations from data by sparse 
 %       identification of nonlinear dynamical systems. Proceedings of
 %       the National Academy of Sciences, 113(15):3932-3937, 2016.
 %   [2] Linan Zhang and Hayden Schaeffer. 
-%       On the Convergence of the SINDy Algorithm.
-%       https://arxiv.org/abs/1805.06445
+%       On the Convergence of the SINDy Algorithm. Multiscale Modeling
+%       & Simulation 17(3), 948–972, 2019.
 %
 % Authors: Linan Zhang and Hayden Schaeffer
 % Date: May 16, 2018
