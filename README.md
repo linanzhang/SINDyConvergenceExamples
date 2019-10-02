@@ -14,9 +14,7 @@ Reference:
  
 On the Convergence of the SINDy Algorithm.
       
-https://www.math.cmu.edu/CNA/Publications/publications2018/papers/18-CNA-013.pdf
-
-https://arxiv.org/pdf/1805.06445.pdf
+Multiscale Modeling & Simulation, Volume 17, Issue 3.
 
 [2] Steven L. Brunton, Joshua L. Proctor, and J. Nathan Kutz. 
 
